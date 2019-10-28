@@ -15,11 +15,7 @@ This library is in an alpha state and can behave very weirdly.
 
 ### Roadmap
 
-* Testing testing ~~testing~~,
-* First alpha goal: ~~get the lib to create environments on demand (Delayed because Acquia's API design)~~,
-* ~~Submit to Pypi~~
-
-More information coming soon.
+* `2.0.1`: Adapt library to reflect latest Acquia API changes.
 
 
 ## Examples
