@@ -10,9 +10,6 @@ Client library to communicate with the [Acquia Cloud API V2](http://cloud.acquia
 Python implementation for the new Acquia API v2 (https://cloud.acquia.com/api-docs/),
 based on the original acapi Python Library created by Dave Hall (http://github.com/skwashd/python-acquia-cloud)
 
-
-This library is in an alpha state and can behave very weirdly.
-
 ### Roadmap
 
 * `2.0.1`: Adapt library to reflect latest Acquia API changes.
